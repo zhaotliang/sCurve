@@ -15,11 +15,10 @@ int _tmain(int argc, _TCHAR* argv[])
 	return 0;
 }
 
-//没有匀速运动阶段，在一定时间内走固定距离；走的距离短，没有匀速阶段
 /*	
 *	Function Name	:
-*	Description		:
-*	Parameter		:
+*	Description		: 没有匀速运动阶段，在一定时间内走固定距离；走的距离短，没有匀速阶段
+*	Parameter			:
 					Name			Type		Description
 					---------------------------------------
 					distance		double		reference unit
